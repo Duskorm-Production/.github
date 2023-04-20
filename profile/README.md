@@ -1,5 +1,11 @@
 # Hi there 👋
 
+<div align=center>
+    <img src="" />
+</div>
+
+
+## About us
 - 🙋‍♀️ We are a small team of geeks who love to create new stuff!
 - 🌈 If you wanna exchange with one of us, we would be glad to help you.
 - :heart: We love to learn new things and discover new ways of thinking
